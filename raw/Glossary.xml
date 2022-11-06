@@ -1,0 +1,228 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Touhou Wiki</sitename>
+    <dbname>touhouwiki</dbname>
+    <base>http://en.touhouwiki.net/wiki/Touhou_Wiki</base>
+    <generator>MediaWiki 1.32.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Touhou Wiki</namespace>
+      <namespace key="5" case="first-letter">Touhou Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Glossary</title>
+    <ns>0</ns>
+    <id>6947</id>
+    <revision>
+      <id>448926</id>
+      <parentid>448431</parentid>
+      <timestamp>2022-07-04T17:00:06Z</timestamp>
+      <contributor>
+        <username>GDK</username>
+        <id>5041</id>
+      </contributor>
+      <minor/>
+      <comment>tr link</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7896">This is a vocabulary of the most common terms and abbreviations used in Touhou discussions.
+
+{{CompactTOC}}
+
+== 0-9 ==
+
+* '''1CC''' — 1 Credit Clear (alternatively, 1 Coin Clear) — Completing the game from start to finish without using continues (necessary to see the good endings in most Touhou games). Credit refers to the arcades where the term first started. Each credit is usually bought with a single coin.
+* '''1LC''' — 1 Life Clear — Completing the game on single credit without losing any lives in the process.
+
+== A ==
+*'''AFiEU''' - [[Alternative Facts in Eastern Utopia]]
+*'''AoCF''' - [[Antinomy of Common Flowers]]
+
+== B ==
+
+* '''BAiJR''' - [[Bohemian Archive in Japanese Red]]
+* '''Bougesshou''' - A variation of '''Bougetsushou'''. It is a word form made by a euphonic change. 
+* '''Bougetsushou''' - Japanese name of the storyline consisting of [[Silent Sinner in Blue]], [[Cage in Lunatic Runagate]] and [[Inaba of the Moon and Inaba of the Earth]]     &lt;small&gt;Kanji:{{lang|ja|儚月抄}}&lt;/small&gt;(Bōgetsushō)
+* '''Bunkachou''' - Japanese name of [[Bohemian Archive in Japanese Red]], [[Shoot the Bullet]], and [[Double Spoiler]]     &lt;small&gt;Kanji:{{lang|ja|文花帖}}(Bunkachō)&lt;/small&gt;
+
+== C ==
+
+* '''Chireiden''' - Japanese name of [[Subterranean Animism]]     &lt;small&gt;Kanji:{{lang|ja|地霊殿}}(Chireiden)&lt;/small&gt;
+* '''CiLR''' - [[Cage in Lunatic Runagate]]
+* '''CoLA''' - [[Curiosities of Lotus Asia]]
+* '''CoSD''' - [[Changeability of Strange Dream]]
+
+== D ==
+
+* '''DBOA''' - [[Dateless Bar "Old Adam"]]
+* '''DDC''' - [[Double Dealing Character]]
+* '''DiPP''' - [[Dolls in Pseudo Paradise]]
+* '''DLFR''' - [[Dr. Latency's Freak Report]]
+* '''DS''' - [[Double Spoiler]]
+
+== E ==
+
+* '''EaLND''' - [[Eastern and Little Nature Deity]]
+* '''Eiyashou''' - Japanese name of [[Imperishable Night]]     &lt;small&gt;Kanji:{{lang|ja|永夜抄}}(Eiyashō)&lt;/small&gt;
+* '''EoSD''' - [[Embodiment of Scarlet Devil]]
+
+== F ==
+* '''FS''' - [[Forbidden Scrollery]]
+* '''Fuujinroku''' - Japanese name of [[Mountain of Faith]]     &lt;small&gt;Kanji:{{lang|ja|風神録}}(Fūjinroku)&lt;/small&gt;
+* '''Fuumaroku''' - Japanese name of [[Story of Eastern Wonderland]]     &lt;small&gt;Kanji:{{lang|ja|封魔録}}(Fūmaroku)&lt;/small&gt;
+* '''FW''' - [[Fairy Wars]]
+
+== G ==
+
+* '''Gensoukyou''' - Japanese name of [[Lotus Land Story]], also the [[Gensokyo|setting]] of the Touhou stories.     &lt;small&gt;Kanji:{{lang|ja|幻想郷}}(Gensōkyō)&lt;/small&gt;
+* '''GFC''' - [[Ghostly Field Club]]
+* '''GoM''' - [[The Grimoire of Marisa]]
+* '''GoU''' - [[The Grimoire of Usami]]
+* '''Gumonkuju''' - Japanese name of [[Symposium of Post-mysticism]]     &lt;small&gt;Kanji:{{lang|ja|求聞口授}}(Gumonkuju)&lt;/small&gt;
+* '''Gumonshiki''' - Japanese name of [[Perfect Memento in Strict Sense]]     &lt;small&gt;Kanji:{{lang|ja|求聞史紀}}(Gumonshiki)&lt;/small&gt;
+
+== H ==
+
+* '''Hisouten''' - Japanese name of [[Scarlet Weather Rhapsody]]     &lt;small&gt;Kanji:{{lang|ja|緋想天}}(Hisōten)&lt;/small&gt;
+* '''Hisoutensoku''' - Japanese name of [[Touhou Hisoutensoku]]     &lt;small&gt;Kanji:{{lang|ja|非想天則}}(Hisōtensoku)&lt;/small&gt;
+* '''HM''' - [[Hopeless Masquerade]]
+* '''HP''' - Hit Points, the amount of damage an enemy (usually boss or midboss) can sustain before dying, leaving the scene or changing form.
+* '''HRtP''' - [[Highly Responsive to Prayers]]
+* '''HSiFS''' - [[Hidden Star in Four Seasons]]
+* '''Hyouibana''' - Japanese name of [[Antinomy of Common Flowers]] &lt;small&gt;Kanji:{{lang|ja|憑依華}}(Hyōibana)&lt;/small&gt;
+
+== I ==
+
+* '''IaMP''' - [[Immaterial and Missing Power]]
+* '''Ibarakasen''' - Japanese name of [[Wild and Horned Hermit]]     &lt;small&gt;Kanji:{{lang|ja|茨歌仙}}(Ibarakasen)&lt;/small&gt;
+* '''IN''' - [[Imperishable Night]]
+* '''ISC''' - [[Impossible Spell Card]]
+* '''IotMaIotE''' - [[Inaba of the Moon and Inaba of the Earth]] 
+
+== K ==
+
+* '''Kaeidzuka''' - Japanese name of [[Phantasmagoria of Flower View]]     &lt;small&gt;Kanji:{{lang|ja|花映塚}}(Kaeizuka)&lt;/small&gt;
+* '''Kaikidan''' - Japanese name of [[Mystic Square]]     &lt;small&gt;Kanji:{{lang|ja|怪綺談}}(Kaikidan)&lt;/small&gt;
+* '''Kanjuden''' - Japanese name of [[Legacy of Lunatic Kingdom]]     &lt;small&gt;Kanji:{{lang|ja|紺珠伝}}(Kanjuden)&lt;/small&gt;
+* '''Kishinjou''' - Japanese name of [[Double Dealing Character]]     &lt;small&gt;Kanji:{{lang|ja|輝針城}}(Kishinjō)&lt;/small&gt;
+* '''Koumakyou''' - Japanese name of [[Embodiment of Scarlet Devil]]     &lt;small&gt;Kanji:{{lang|ja|紅魔郷}}(Kōmakyō)&lt;/small&gt;
+* '''Kourindou''' - Japanese name of [[Curiosities of Lotus Asia]], also the [[Kourindou|place]] where it takes place.     &lt;small&gt;Kanji:{{lang|ja|香霖堂}}(Kōrindō)&lt;/small&gt;
+
+== L ==
+
+* '''LLS''' - [[Lotus Land Story]]
+* '''LoLK''' - [[Legacy of Lunatic Kingdom]]
+
+== M ==
+
+* '''MA''' - [[Magical Astronomy]]
+* '''MoF''' - [[Mountain of Faith]]
+* '''MS''' - [[Mystic Square]]
+
+== N ==
+
+* '''NtoJ''' - [[Neo-traditionalism of Japan]]
+
+== O ==
+
+*'''OSP''' - [[Oriental Sacred Place]]
+
+== P ==
+
+* '''PCB''' - [[Perfect Cherry Blossom]] (Do not confuse it with ''printed circuit board'', the medium used for arcade games!)
+* '''Pichu~n''' - The sound your character makes when you die. Biu~/Bew~ means the same.
+* '''PMiSS''' - [[Perfect Memento in Strict Sense]]
+* '''POC''' - [[Point of collection]]
+* '''PoDD''' - [[Phantasmagoria of Dim.Dream]]
+* '''PoFV''' - [[Phantasmagoria of Flower View]]
+
+== R ==
+
+* '''R53M''' - [[Retrospective 53 minutes]]
+* '''Rei'iden''' - Japanese name of [[Highly Responsive to Prayers]]     &lt;small&gt;Kanji:{{lang|ja|靈異伝}}(Reiiden)&lt;/small&gt;
+* '''RCS''' - [[Rainbow-Colored Septentrion]]
+
+== S ==
+
+* '''SA''' - [[Subterranean Animism]]
+* '''SaBND''' - [[Strange and Bright Nature Deity]]
+* '''Sangessei''' - A variation of '''Sangetsusei'''.　It is a word form made by a euphonic change. See below.
+* '''Sangetsusei''' - Japanese name of [[Eastern and Little Nature Deity]], [[Strange and Bright Nature Deity]], [[Oriental Sacred Place]], &amp; [[Fairy Wars]]     &lt;small&gt;Kanji:{{lang|ja|三月精}}(Sangetsusei)&lt;/small&gt;
+* '''SCoOW''' - [[Strange Creators of Outer World]]
+* '''Seirensen''' - Japanese name of [[Undefined Fantastic Object]]     &lt;small&gt;Kanji:{{lang|ja|星蓮船}}(Seirensen)&lt;/small&gt;
+* '''Shinkirou''' - Japanese name of [[Hopeless Masquerade]]     &lt;small&gt;Kanji:{{lang|ja|心綺楼}}(Shinkirō)&lt;/small&gt;
+* '''Shinpiroku''' - Japanese name of [[Urban Legend in Limbo]] &lt;small&gt;Kanji:{{lang|ja|深秘録}} (Shinpiroku)&lt;/small&gt;
+* '''Shinreibyou''' - Japanese name of [[Ten Desires]]　    &lt;small&gt;Kanji:{{lang|ja|神霊廟}}(Shinreibyō)&lt;/small&gt;
+* '''Shmup''' - Shoot 'em up
+* '''SoEW''' - [[Story of Eastern Wonderland]]
+* '''SoPm''' - [[Symposium of Post-mysticism]]
+* '''SSiB''' - [[Silent Sinner in Blue]]
+* '''StB''' - [[Shoot the Bullet]]
+* '''STG''' - [[Shooting game]]
+* '''Suimusou''' - Japanese name of [[Immaterial and Missing Power]]     &lt;small&gt;Kanji:{{lang|ja|萃夢想}}(Suimusō)&lt;/small&gt;
+* '''Suzunaan''' - Japanese name of [[Forbidden Scrollery]]     &lt;small&gt;Kanji:{{lang|ja|鈴奈庵}}(Suzunaan)&lt;/small&gt;
+* '''SWR''' - [[Scarlet Weather Rhapsody]]
+
+== T ==
+
+* '''TD''' - [[Ten Desires]]
+* '''TGA''' - [[Trojan Green Asteroid]]
+
+== U ==
+
+* '''UFO''' - [[Undefined Fantastic Object]]
+* '''UFMJ''' - [[Unknown Flower, Mesmerizing Journey]]
+* '''ULiL''' - [[Urban Legend in Limbo]]
+* '''UM''' - [[Unconnected Marketeers]]
+
+== V ==
+*'''VD''' - [[Violet Detector]]
+*'''VFiS''' - [[Visionary Fairies in Shrine]]
+
+== W ==
+
+* '''WBaWC''' - [[Wily Beast and Weakest Creature]]
+* '''WaHH''' - [[Wild and Horned Hermit]]
+
+== Y ==
+
+* '''Youyoumu''' - Japanese name of [[Perfect Cherry Blossom]]　    &lt;small&gt;Kanji:{{lang|ja|妖々夢}}(Yōyōmu)&lt;/small&gt;
+* '''Yumejikuu''' - Japanese name of [[Phantasmagoria of Dim.Dream]]     &lt;small&gt;Kanji:{{lang|ja|夢時空}}(Yumejikū)&lt;/small&gt;
+
+[[Category:Content]]
+[[es:Glosario]]
+[[fr:Glossaire]]
+[[it:Glossario]]
+[[pl:Słownictwo]]
+[[pt:Glossário Touhou]]
+[[ru:Глоссарий]]
+[[tr:Sözlük]]</text>
+      <sha1>7d8y9mbw8oblhf4t8km4c3nwyqg3hlz</sha1>
+    </revision>
+  </page>
+</mediawiki>

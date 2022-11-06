@@ -1,0 +1,7 @@
+<h1>{{ title }}</h1>
+{% if transliteration %}【{{ transliteration }}】{% endif %}
+<ul>
+	{% for key, value in fields %}
+		<li>{{ key }} · {{ value.strip() }}</li>
+	{% endfor %}
+</ul>

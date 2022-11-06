@@ -1,0 +1,91 @@
+@charset "UTF-8";
+@namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
+
+/*
+	Adapted from:
+	/System/Library/AssetsV2/com_apple_MobileAsset_DictionaryServices_dictionaryOSX
+*/
+
+body {
+  font-size: 12pt;
+  font-family: -apple-system;
+  margin-block-start: 1.2em;
+  margin-block-end: 1.5em;
+  margin-inline-start: 0.9em;
+  margin-inline-end: 0.9em;
+}
+
+a {
+  color: -webkit-link;
+  text-decoration: none;
+}
+
+
+html.apple_client-panel a,
+html.apple_client-panel a:link,
+html.apple_client-panel a:visited,
+html.apple_client-panel a:hover,
+html.apple_client-panel a:active {
+  text-decoration: none;
+}
+
+h1 {
+  /* Allow transliteration on same line. */
+  display: inline;
+  font-size: 142%;
+  font-weight: normal;
+  margin-block-end: 0.5em;
+  margin-inline-start: 0;
+}
+
+ul {
+  margin-block-start: 0.5em;
+}
+
+li, p {
+  font-size: 84%;
+}
+
+p {
+  line-height: 130%;
+  margin-block-start: 0.7em;
+  margin-block-end: 0.7em;
+  margin-inline-start: 1.3em;
+  margin-inline-end: 0;
+}
+
+b {
+  font-weight: 600;
+}
+
+/*
+	Lookup.
+*/
+
+html.apple_client-panel {
+  background-color: transparent;
+}
+
+html.apple_client-panel body {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 1em;
+  margin-inline-end: 1em;
+  line-height: 120%;
+}
+
+html.apple_client-panel img {
+  display: none;
+}
+
+html.apple_client-panel h1 {
+  font-size: 100%;
+  margin-block-start: 0;
+  margin-block-end: 0.2em;
+}
+
+html.apple_client-panel p {
+  margin-block-start: 0.2em;
+  margin-inline-start: 1.0em;
+  margin-inline-end: 1.0em;
+}
