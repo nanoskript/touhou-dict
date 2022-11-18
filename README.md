@@ -2,8 +2,6 @@
 
 System dictionaries for the Touhou universe.
 
-![Picture](docs/picture.png)
-
 ## Entries
 
 Dictionary entries are present for the following categories
@@ -11,27 +9,27 @@ from [en.touhouwiki.net](https://en.touhouwiki.net/):
 
 - Characters
 
-  ![Picture](docs/character.png)
+    <img src="docs/character.png" width="384px">
 
 - Official game music
 
-  ![Picture](docs/music.png)
+    <img src="docs/music.png" width="384px">
 
 - Official games
 
-  ![Picture](docs/game.png)
+    <img src="docs/game.png" width="384px">
 
 - Locations
 
-  ![Picture](docs/location.png)
+    <img src="docs/location.png" width="384px">
 
 - Bestiary
 
-  ![Picture](docs/bestiary.png)
+    <img src="docs/bestiary.png" width="384px">
 
 - Glossary
 
-  ![Picture](docs/glossary.png)
+    <img src="docs/glossary.png" width="384px">
 
 ## Installation
 
@@ -42,11 +40,11 @@ from [en.touhouwiki.net](https://en.touhouwiki.net/):
 2. Double-click on the downloaded `Touhou.dictionary.tar.gz` file to extract it.
 3. Open macOS's Dictionary application and go to `File` > `Open Dictionaries Folder`:
 
-   ![Picture](docs/apple/open_dictionaries_folder.png)
+    <img src="docs/apple/open_dictionaries_folder.png" width="384px">
 
 4. Drag the extracted `Touhou.dictionary` folder into the `Dictionaries` folder:
 
-   ![Picture](docs/apple/dictionaries_folder.png)
+    <img src="docs/apple/dictionaries_folder.png" width="384px">
 
 ## Scraping
 
