@@ -25,6 +25,8 @@ def main():
 
     # Write dictionary file.
     # gloss.write('./build/html', 'HtmlDir')
+    # FIXME: Remove empty JSON entry.
+    gloss.write('./build/web/data.json', 'Json')
     gloss.write('./build/apple/Touhou', 'AppleDict', css="./styles/apple.css")
 
 
