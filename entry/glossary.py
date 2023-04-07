@@ -2,7 +2,7 @@ import re
 
 import mwparserfromhell
 
-from entry.common import parse_page, page_list_items
+from entry.common import parse_page, page_list_items, templated
 from entry.render import render
 
 
@@ -16,7 +16,11 @@ def convert_glossary(gloss):
 
         # Format contents.
         name = str(name.nodes[0].contents)
-        content = render(details)
+        content = templated(
+            'glossary.html',
+            title=name,
+            synopsis=render(details),
+        )
 
         print(f"[glossary] {name}")
         entry = gloss.newEntry([name], content)

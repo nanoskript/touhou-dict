@@ -1,3 +1,5 @@
+import json
+
 from pyglossary.glossary import Glossary
 
 from entry.bestiary import convert_bestiary
@@ -23,11 +25,30 @@ def main():
     convert_bestiary(gloss)
     convert_glossary(gloss)
 
-    # Write dictionary file.
+    # FIXME: Hack to avoid clearing entries after writing dictionary.
+    gloss.clear = lambda *args: None
+
+    # Write dictionary files.
     # gloss.write('./build/html', 'HtmlDir')
-    # FIXME: Remove empty JSON entry.
+
+    # Write JSON file.
     gloss.write('./build/web/data.json', 'Json')
-    gloss.write('./build/apple/Touhou', 'AppleDict', css="./styles/apple.css")
+    with open('./build/web/data.json', 'r') as r:
+        # Remove unnecessary entries.
+        data = json.load(r)
+        data.pop("")
+        data.pop("##name")
+        data.pop("##author")
+        data.pop("##copyright")
+        with open('./build/web/data.json', 'w') as w:
+            json.dump(data, w, indent=2)
+
+    # Write Apple dictionary sources.
+    gloss.write(
+        './build/apple/Touhou',
+        'AppleDict',
+        css="./styles/apple.css",
+    )
 
 
 if __name__ == '__main__':
