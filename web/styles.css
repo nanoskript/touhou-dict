@@ -1,0 +1,22 @@
+.term-search-form {
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+}
+
+.term-search-input {
+    flex: 1;
+}
+
+.entry {
+    margin-top: 2rem;
+}
+
+.entry h1 {
+    display: inline;
+    font-size: x-large;
+}
+
+.entry li {
+    margin-bottom: 0;
+}
