@@ -1,5 +1,8 @@
 # touhou-dict
 
+[Web interface](https://nanoskript.dev/touhou/dict/)
+| [Latest release](https://github.com/nanoskript/touhou-dict/releases/tag/latest)
+
 System dictionaries for the Touhou universe.
 
 ## Entries
