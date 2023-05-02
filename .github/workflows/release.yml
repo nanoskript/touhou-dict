@@ -36,6 +36,11 @@ jobs:
           name: Touhou-apple
           path: build/apple/Touhou
 
+      - name: Package web sources
+        run: |
+          cp web/* build/web/
+          tar -C build -czvf web-public.tar.gz web
+
       - name: Release
         uses: marvinpinto/action-automatic-releases@latest
         with:
@@ -43,6 +48,7 @@ jobs:
           automatic_release_tag: "latest"
           prerelease: false
           title: "Latest build"
+          files: web-public.tar.gz
 
   release-apple:
     name: Release Apple
