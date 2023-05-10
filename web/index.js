@@ -31,7 +31,7 @@ const TermSearchForm = ({ query, updateQuery }) => {
         }}>
             <div class="term-search-form">
                 <input type="text" value=${string} class="term-search-input"
-                       placeholder="Search term" autocomplete="off"
+                       placeholder="Search term" autofocus autocomplete="off"
                        autocapitalize="none" spellcheck="false"
                        oninput=${(e) => setString(e.target.value)}/>
                 <input type="submit" value="Filter"/>
