@@ -23,7 +23,10 @@ function filterEntries(data, term) {
 }
 
 const TermSearchForm = ({ query, updateQuery }) => {
-    const [string, setString] = useState(query.get("term") || "");
+    const termString = () => query.get("term") || "";
+    const [string, setString] = useState(termString());
+    useEffect(() => setString(termString()), [query]);
+
     return html`
         <form onsubmit=${(e) => {
             e.preventDefault();
@@ -76,10 +79,19 @@ const EntryList = ({ query }) => {
     `;
 };
 
-function Page() {
-    const pageLoadQuery = new URL(window.location).searchParams;
-    const [query, setQuery] = useState(pageLoadQuery);
+function usePageQuery() {
+    const read = () => new URL(window.location).searchParams;
+    const [query, setQuery] = useState(read());
+    useEffect(() => {
+        const listener = () => setQuery(read());
+        window.addEventListener("popstate", listener);
+        return () => window.removeEventListener("popstate", listener);
+    }, []);
+    return [query, setQuery];
+}
 
+function Page() {
+    const [query, setQuery] = usePageQuery();
     const updateQuery = (key, value) => {
         const url = new URL(window.location);
         url.searchParams.set(key, value);
